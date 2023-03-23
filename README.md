@@ -1,7 +1,7 @@
-# This is the files for my website application. 
+# These are the files for my website application. 
 
-#Simple 3 page web app 
-###Consists of:
+ 
+Consists of:
 
 Node.js
 Express
