@@ -2,7 +2,7 @@
 
  
 Consists of:
-<img src ="https://cdn-icons-png.flaticon.com/512/268/268998.png">
+<img align = "center" src ="https://cdn-icons-png.flaticon.com/512/268/268998.png">
 
 Node.js
 Express
